@@ -1,0 +1,15 @@
+org\osial\osialminions\minions\tasks\MinerMinionTask.class
+org\osial\osialminions\utils\ColorUtil.class
+org\osial\osialminions\utils\NBTEditor.class
+org\osial\osialminions\utils\NBTEditor$Type.class
+org\osial\osialminions\minions\animation\MinionAnimation.class
+org\osial\osialminions\utils\NBTEditor$NBTCompound.class
+org\osial\osialminions\minions\animation\actual\MovePickaxeAnimation.class
+org\osial\osialminions\minions\MinionTypes.class
+org\osial\osialminions\minions\actual\MiningMinion.class
+org\osial\osialminions\utils\ItemBuilder.class
+org\osial\osialminions\utils\NBTEditor$MinecraftVersion.class
+org\osial\osialminions\minions\Minion.class
+org\osial\osialminions\minions\MinionHandler.class
+org\osial\osialminions\OsialMinions.class
+org\osial\osialminions\minions\tasks\MinionAnimationTask.class

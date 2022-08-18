@@ -1,0 +1,8 @@
+name: OsialMinions
+version: '${project.version}'
+main: org.osial.osialminions.OsialMinions
+api-version: 1.13
+softdepend: [ PlaceholderAPI, ProtocolLib ]
+authors: [ Osial, WizardChan ]
+description: A minions plugin based on the popular Skyblock server.
+website: https://discord.gg/Qr2rQC2BBp
